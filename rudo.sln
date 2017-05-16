@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programy", "Prvy\Programy.csproj", "{659E88A9-1BC2-40FA-B467-8729D9F6BE1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treti", "Treti\Treti.csproj", "{328A9039-FF4A-4389-91BA-52A8DE9F7BE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{659E88A9-1BC2-40FA-B467-8729D9F6BE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{659E88A9-1BC2-40FA-B467-8729D9F6BE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{659E88A9-1BC2-40FA-B467-8729D9F6BE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328A9039-FF4A-4389-91BA-52A8DE9F7BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328A9039-FF4A-4389-91BA-52A8DE9F7BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328A9039-FF4A-4389-91BA-52A8DE9F7BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328A9039-FF4A-4389-91BA-52A8DE9F7BE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
